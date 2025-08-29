@@ -14,7 +14,7 @@ This scanner attempts to connect to specified ports on a target host and reports
 
 ---
 
-## 📚 How It Works
+## Working
 - Uses Python’s built-in `socket` module  
 - For each port:
   - Tries to complete a TCP 3-way handshake  
@@ -23,10 +23,3 @@ This scanner attempts to connect to specified ports on a target host and reports
 - This type of scan is slower and more detectable than SYN scans (like Nmap),  
   but is beginner-friendly and requires no root privileges.  
 
----
-
-## 🛠️ Installation
-Clone the repo and navigate to the project directory:
-```bash
-git clone https://github.com/your-username/tcp-port-scanner.git
-cd tcp-port-scanner
