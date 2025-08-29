@@ -1,0 +1,4 @@
+# requirements.txt
+
+# For colored console output (optional)
+colorama==0.4.6
