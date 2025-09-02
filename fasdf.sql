@@ -7,7 +7,7 @@ adk.sql
 # inpoert
 ddd
 dfsdffdxcvk
-d
+dvcxvks
 dsfs
 dsfskdsfjhs
 chdsv
