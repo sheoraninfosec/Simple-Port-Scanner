@@ -1,4 +1,4 @@
-afa.sql
+jdkaafa.sql
 \
 vhjaksdfk
 fs
