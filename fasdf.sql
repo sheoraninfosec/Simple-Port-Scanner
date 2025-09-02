@@ -7,3 +7,4 @@ adk.sql
 # inpoert
 d
 dfsdffd
+d
